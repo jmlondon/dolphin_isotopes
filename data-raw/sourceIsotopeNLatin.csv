@@ -1,0 +1,30 @@
+Habitat,source,CommonName,Meand13C,SDd13C,Meand15N,SDd15N,n
+Coastal,Arripis georgianus,Australian Herring,-18.90983571,0.051313508,11.43525249,0.076804934,3
+Inshore,Arripis georgianus,Australian Herring,-17.92805818,0.013233406,11.29204623,0.074841909,3
+Coastal,Spratelloides robustus,Blue Sprat,-18.38101924,0.074848857,9.294457269,0.072065238,3
+Inshore,Portunus armatus,Blue Swimmer Crab,-13.52965801,0.083014148,8.181256243,0.1727544,3
+Coastal,Platycephalus speculator,Southern Blue-spotted Flathead,-17.43738054,0.04707972,11.46322236,0.063666699,3
+Inshore,Cnidoglanis macrocephalus,Inshore Cobbler,-14.43815284,0.165304232,8.691246153,0.166194878,3
+Coastal,Glaucosoma hebraicum,Dhufish,-19.07752717,0.028583356,13.10059162,0.249351471,3
+Coastal,Cnidoglanis macrocephalus,Inshore Cobbler,-16.64793219,0.037311824,10.28394706,0.174782223,3
+Inshore,Hyporhamphus melanochir,Southern Garfish,-11.63504063,0.049290249,7.683540323,0.114054892,3
+Inshore,Ostorhinchus rueppellii,Western Gobbleguts,-13.68854457,0.071108418,9.861400251,0.073824738,3
+Coastal,Macro algae,Macro algae,-14.98913894,4.06888378,4.447874465,0.759918114,10
+Inshore,Macro algae,Macro algae,-16.74848904,0.265158455,5.519066202,0.968907768,6
+Inshore,Platycephalus marmoratus,Marbled Flathead,-14.80097844,0.035505446,11.54148289,0.107212192,3
+Inshore,Nematolosa vlaminghi,Perth herring,-16.66471031,0.422977496,10.99554732,0.065936922,3
+Coastal,Plankton,Plankton,-22.07821971,4.895948038,4.626211615,0.402751881,14
+Inshore,Plankton,Plankton,-26.58185347,0.992248561,4.711607644,0.363282153,10
+Coastal,Pelsartia humeralis,Sea Trumpeter,-16.92265647,0.035799429,10.26281412,0.125848515,3
+Coastal,Sillago bassensis,Souther School Whiting,-17.23913831,0.054641139,10.74379702,0.118005825,6
+Coastal,Hyporhamphus melanochir,Southern Garfish,-17.76340601,0.042896936,8.710434252,0.20559057,3
+Coastal,Cephalopoda,Squid,-21.11695851,2.048937925,9.033189699,0.843533141,6
+Coastal,Pomatomus saltatrix,Tailor,-17.47335949,0.014408197,12.97308864,0.029985357,3
+Inshore,Pomatomus saltatrix,Tailor,-18.13726326,1.566722704,13.52772772,0.342125504,5
+Coastal,Pseudocaranx sp,Trevally,-17.06419926,0.022932672,10.72930929,0.117780366,3
+Inshore,Pseudocaranx sp,Trevally,-15.69740713,0.053237594,10.88470299,0.034025954,3
+Coastal,Pelates octolineatus,Western Striped Grunter,-16.60085833,0.03596734,10.28279701,0.097463054,3
+Inshore,Pelates octolineatus,Western Striped Grunter,-14.64902018,0.146980278,8.690872306,0.279613047,3
+Inshore,Aldrichetta forsteri,Yelloweye Mullet,-13.42641485,0.116032322,10.98503197,0.147609818,6
+Coastal,Sillago schomburgkii,Yellowfin Whiting,-15.58058357,0.565005444,12.10677516,0.890738678,6
+Inshore,Sillago schomburgkii,Yellowfin Whiting,-13.89200572,0.240259299,10.5400159,0.129813612,3
