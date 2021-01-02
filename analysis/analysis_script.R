@@ -91,7 +91,7 @@ process_err <- TRUE
 write_JAGS_model(model_filename, resid_err, process_err, my_mix, my_source)
 
 # this runs the model and the results are stored in jags.1.
-jags.1 <- run_model(run="test", my_mix, my_source, my_discr, model_filename,
+jags.1 <- run_model(run="long", my_mix, my_source, my_discr, model_filename,
                     alpha.prior = 1, resid_err, process_err)
 
 # this creates all of the output plots, summary text, an diagnostic test.
@@ -101,3 +101,8 @@ jags.1 <- run_model(run="test", my_mix, my_source, my_discr, model_filename,
 source(here::here('R','output_JAGS.R'))
 output_JAGS(jags.1,my_mix,my_source)
 
+p1 <- readRDS('posterior_density_diet_p_Coastal.rds')
+p2 <- readRDS('posterior_density_diet_p_Inshore.rds')
+p1 + p2
+
+ggsave(here('figure_4.png'), width = 12.5, height = 6.25, units = "in")

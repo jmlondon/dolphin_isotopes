@@ -3,26 +3,26 @@
 # Summary Statistics
 #################################################################
 
-DIC = 18.33836
+DIC = 19.50629
 
                                       Mean    SD  2.5%    5%    25%    50%    75%    95%  97.5%
-Epsilon.1                            6.503 5.098 0.903 1.183  2.498  4.614  9.447 17.174 18.389
-Epsilon.2                           13.270 3.713 6.403 7.229 10.462 13.421 16.241 19.136 19.572
-p.Coastal.Arripis georgianus         0.218 0.128 0.013 0.018  0.128  0.219  0.308  0.442  0.489
-p.Inshore.Arripis georgianus         0.229 0.207 0.004 0.007  0.058  0.165  0.345  0.645  0.723
-p.Coastal.Cnidoglanis macrocephalus  0.104 0.088 0.017 0.019  0.045  0.075  0.131  0.292  0.362
-p.Inshore.Cnidoglanis macrocephalus  0.077 0.079 0.004 0.006  0.019  0.050  0.109  0.249  0.290
-p.Coastal.Hyporhamphus melanochir    0.106 0.110 0.001 0.002  0.021  0.069  0.153  0.353  0.402
-p.Inshore.Hyporhamphus melanochir    0.059 0.062 0.000 0.001  0.010  0.037  0.090  0.184  0.214
-p.Coastal.Macro algae                0.039 0.032 0.004 0.006  0.014  0.030  0.055  0.097  0.113
-p.Inshore.Macro algae                0.025 0.028 0.001 0.002  0.006  0.015  0.033  0.082  0.109
-p.Coastal.Pelates octolineatus       0.074 0.059 0.010 0.012  0.029  0.061  0.103  0.187  0.211
-p.Inshore.Pelates octolineatus       0.057 0.067 0.003 0.004  0.014  0.034  0.076  0.185  0.244
-p.Coastal.Plankton                   0.122 0.058 0.025 0.032  0.073  0.116  0.166  0.215  0.238
-p.Inshore.Plankton                   0.037 0.026 0.005 0.007  0.018  0.031  0.051  0.090  0.101
-p.Coastal.Pomatomus saltatrix        0.174 0.106 0.012 0.017  0.080  0.173  0.252  0.360  0.382
-p.Inshore.Pomatomus saltatrix        0.330 0.179 0.002 0.005  0.203  0.354  0.456  0.607  0.640
-p.Coastal.Pseudocaranx sp            0.126 0.105 0.006 0.009  0.044  0.096  0.170  0.366  0.399
-p.Inshore.Pseudocaranx sp            0.145 0.167 0.002 0.004  0.026  0.078  0.205  0.493  0.612
-p.Coastal.Sillago schomburgkii       0.037 0.044 0.002 0.003  0.008  0.021  0.049  0.134  0.174
-p.Inshore.Sillago schomburgkii       0.040 0.065 0.000 0.001  0.004  0.015  0.043  0.178  0.232
+Epsilon.1                            7.036 5.035 0.980 1.293  2.914  5.558 10.303 17.353 18.383
+Epsilon.2                           13.113 3.856 5.991 6.905 10.108 13.120 16.267 19.121 19.543
+p.Coastal.Arripis georgianus         0.199 0.136 0.010 0.019  0.087  0.180  0.288  0.456  0.505
+p.Inshore.Arripis georgianus         0.213 0.205 0.003 0.006  0.047  0.144  0.322  0.648  0.719
+p.Coastal.Cnidoglanis macrocephalus  0.081 0.076 0.002 0.004  0.024  0.058  0.116  0.237  0.286
+p.Inshore.Cnidoglanis macrocephalus  0.058 0.070 0.001 0.001  0.011  0.032  0.078  0.210  0.262
+p.Coastal.Hyporhamphus melanochir    0.128 0.104 0.004 0.008  0.043  0.102  0.190  0.331  0.379
+p.Inshore.Hyporhamphus melanochir    0.069 0.064 0.001 0.003  0.019  0.051  0.102  0.199  0.235
+p.Coastal.Macro algae                0.049 0.041 0.002 0.003  0.017  0.039  0.072  0.132  0.155
+p.Inshore.Macro algae                0.029 0.035 0.001 0.001  0.007  0.017  0.038  0.095  0.120
+p.Coastal.Pelates octolineatus       0.080 0.074 0.003 0.005  0.025  0.059  0.112  0.231  0.276
+p.Inshore.Pelates octolineatus       0.058 0.071 0.001 0.002  0.011  0.032  0.076  0.203  0.267
+p.Coastal.Plankton                   0.110 0.056 0.013 0.023  0.068  0.106  0.149  0.206  0.224
+p.Inshore.Plankton                   0.037 0.028 0.003 0.005  0.016  0.030  0.050  0.092  0.105
+p.Coastal.Pomatomus saltatrix        0.169 0.097 0.014 0.029  0.096  0.158  0.235  0.341  0.380
+p.Inshore.Pomatomus saltatrix        0.336 0.172 0.005 0.015  0.222  0.355  0.460  0.594  0.633
+p.Coastal.Pseudocaranx sp            0.115 0.101 0.004 0.007  0.040  0.086  0.164  0.325  0.383
+p.Inshore.Pseudocaranx sp            0.130 0.159 0.001 0.003  0.020  0.065  0.180  0.487  0.577
+p.Coastal.Sillago schomburgkii       0.068 0.060 0.003 0.005  0.022  0.051  0.095  0.195  0.221
+p.Inshore.Sillago schomburgkii       0.071 0.088 0.001 0.002  0.011  0.034  0.099  0.261  0.325
