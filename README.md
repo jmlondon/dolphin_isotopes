@@ -1,0 +1,21 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+> S.M. McCluskey, K.R. Sprogis, J.M. London, L. Bejder, N.R. Loneragan,
+> Foraging preferences of an apex marine predator revealed through
+> stomach content and stable isotope analyses, Global Ecology and
+> Conservation, 2020, e01396, ISSN 2351-9894,
+> <https://doi.org/10.1016/j.gecco.2020.e01396>.
+
+## Supporting Code Repository
+
+<!-- badges: start -->
+
+[![DOI](https://zenodo.org/badge/325876531.svg)](https://zenodo.org/badge/latestdoi/325876531)
+
+<!-- badges: end -->
+
+This repository provides R code used for portions of the stable isotope
+analysis in the above paper. Specifically, the `{MixSIAR}` analysis to
+explore potential differences in the diet proportion between the inshore
+and coastal dolphins.
